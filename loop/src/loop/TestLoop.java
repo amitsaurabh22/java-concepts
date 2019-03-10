@@ -29,7 +29,7 @@ public class TestLoop {
 
 			if(emp2!=null){
 				
-				System.out.println("Before "+emp.getId());
+				System.out.println("Before "+emp2.getId());
 			}
 			Employee emp =null;
 			 emp = new Employee(i);
